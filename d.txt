@@ -1,5 +1,2 @@
 File Created
-<<<<<<< HEAD
 File A Created
-=======
->>>>>>> 682459da41247493cb9e2e182641f7acc57f2ac3
